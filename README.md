@@ -1,8 +1,8 @@
-# Guardian glow vase - arduino project
+# Guardian glow vase - Arduino project
 
 ## Arduino Scheme
 
-it's a initial ideia, with:
+it's an initial idea, with:
 - touch sensors
 - PIR sensor
 - LED RGB to feedback
